@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1000&center=true&vCenter=true&width=600&lines=👋+Hola,+soy+Duván+Sánchez&color=58A6FF" />
+  <img src="https://img.shields.io/badge/👋%20Hola,%20soy%20Duván%20Sánchez-58A6FF?style=for-the-badge&logo=github&logoColor=white">
 </div>
 
 🎓 **Estudiante de Ingeniería de Sistemas**  
