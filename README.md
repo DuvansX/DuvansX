@@ -20,20 +20,22 @@
 
 ---
 
-## 🛠️ Tecnologías que uso
+## 🧠🛠️ Tech Stack
 
 <div align="center">
 
-<br/>
-
-<img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<!-- Fila 1 -->
+<img src="https://skillicons.dev/icons?i=html,css,java" height="55"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+<!-- Fila 2 -->
+<img src="https://skillicons.dev/icons?i=javascript,mysql" height="55"/>
+
+<br/><br/>
+
+<!-- Línea elegante -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:141e30,100:243b55&height=2"/>
 
 </div>
 
