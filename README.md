@@ -1,7 +1,7 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:141e30,100:243b55&height=200&section=header&text=Duván%20Sánchez&fontSize=40&fontColor=ffffff)
 
 <div align="center">
-  <img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="120"/>
+  <img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/assets/coder.gif" width="120"/>
 </div>
 
 # 👋 Hola, soy Duván Sánchez
