@@ -19,10 +19,10 @@
 - 🚀 Sueño con ser un **desarrollador profesional**
 
 ---
-
+## 🧠🛠️ Tech Stack
 
 <div align="center">
-## 🧠🛠️ Tech Stack
+
 <table>
   <tr>
     <td align="center" width="160">
