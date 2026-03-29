@@ -20,8 +20,6 @@
 
 ---
 
-## 🧠🛠️ Tech Stack
-
 <div align="center">
 
 <table>
@@ -35,14 +33,18 @@
       <strong>CSS3</strong>
     </td>
     <td align="center" width="160">
-      <img src="https://skillicons.dev/icons?i=java" height="48"/><br/>
-      <strong>Java</strong>
+      <img src="https://skillicons.dev/icons?i=javascript" height="48"/><br/>
+      <strong>JavaScript</strong>
     </td>
   </tr>
   <tr>
     <td align="center" width="160">
-      <img src="https://skillicons.dev/icons?i=javascript" height="48"/><br/>
-      <strong>JavaScript</strong>
+      <img src="https://skillicons.dev/icons?i=java" height="48"/><br/>
+      <strong>Java</strong>
+    </td>
+    <td align="center" width="160">
+      <img src="https://skillicons.dev/icons?i=python" height="48"/><br/>
+      <strong>Python</strong>
     </td>
     <td align="center" width="160">
       <img src="https://skillicons.dev/icons?i=mysql" height="48"/><br/>
