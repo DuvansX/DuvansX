@@ -8,7 +8,7 @@
 
 🎓 **Estudiante de Ingeniería de Sistemas**  
 💻 Apasionado por la programación, RV, Diseño 3D, Bases de Datos y Computo.
-🇨🇴 Colombia  
+-🇨🇴 Colombia  
 
 ---
 
