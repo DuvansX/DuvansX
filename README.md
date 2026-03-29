@@ -6,8 +6,8 @@
 
 # 👋 Hola, soy Duván Sánchez
 
-🎓 **Estudiante de desarrollo de software**  
-💻 Apasionado por la programación y el diseño web  
+🎓 **Estudiante de Ingeniería de Sistemas**  
+💻 Apasionado por la programación, RV, Diseño 3D, Bases de Datos y Computo.
 🇨🇴 Colombia  
 
 ---
