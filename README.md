@@ -5,7 +5,12 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Hola,%20soy%20Duván%20Sánchez-1F6FEB?style=for-the-badge">
+  <svg width="520" height="60" xmlns="http://www.w3.org/2000/svg">
+    <text x="0" y="40" font-size="32" font-family="Segoe UI, Arial, sans-serif" fill="#e6edf3">
+      👋 Hola, soy Duván 
+      <tspan fill="#58A6FF">Sánchez</tspan>
+    </text>
+  </svg>
 </div>
 
 🎓 **Estudiante de Ingeniería de Sistemas**  
