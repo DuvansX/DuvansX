@@ -24,18 +24,32 @@
 
 <div align="center">
 
-<!-- Fila 1 -->
-<img src="https://skillicons.dev/icons?i=html,css,java" height="55"/>
-
-<br/><br/>
-
-<!-- Fila 2 -->
-<img src="https://skillicons.dev/icons?i=javascript,mysql" height="55"/>
-
-<br/><br/>
-
-<!-- Línea elegante -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:141e30,100:243b55&height=2"/>
+<table>
+  <tr>
+    <td align="center" width="160">
+      <img src="https://skillicons.dev/icons?i=html" height="48"/><br/>
+      <strong>HTML5</strong>
+    </td>
+    <td align="center" width="160">
+      <img src="https://skillicons.dev/icons?i=css" height="48"/><br/>
+      <strong>CSS3</strong>
+    </td>
+    <td align="center" width="160">
+      <img src="https://skillicons.dev/icons?i=java" height="48"/><br/>
+      <strong>Java</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="160">
+      <img src="https://skillicons.dev/icons?i=javascript" height="48"/><br/>
+      <strong>JavaScript</strong>
+    </td>
+    <td align="center" width="160">
+      <img src="https://skillicons.dev/icons?i=mysql" height="48"/><br/>
+      <strong>MySQL</strong>
+    </td>
+  </tr>
+</table>
 
 </div>
 
