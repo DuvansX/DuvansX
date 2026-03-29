@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/👋%20Hola,%20soy%20Duván%20Sánchez-58A6FF?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/Hola,%20soy%20Duván%20Sánchez-1F6FEB?style=for-the-badge">
 </div>
 
 🎓 **Estudiante de Ingeniería de Sistemas**  
