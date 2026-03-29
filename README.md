@@ -1,7 +1,7 @@
 ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:141e30,100:243b55&height=200&section=header&text=Duván%20S.&fontSize=40&fontColor=ffffff)
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Estudiante+de+Desarrollo;HTML+%7C+CSS+%7C+JavaScript;Java+%7C+MySQL;Siempre+aprendiendo" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Estudiante+de+Sistemas;HTML+%7C+CSS+%7C+JavaScript;Java+%7C+MySQL;Siempre+aprendiendo" />
 </div>
 
 # 👋 Hola, soy Duván Sánchez
