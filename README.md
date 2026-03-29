@@ -39,11 +39,7 @@
 
 ---
 
-## 📊 Estadísticas de GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical)
 
----
 
 ## 📫 Contáctame
 📧 **Email:** duvanchaparro3344@gmail.com  
