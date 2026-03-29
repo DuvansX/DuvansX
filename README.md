@@ -4,14 +4,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=520&lines=Estudiante+de+Sistemas;HTML+%7C+CSS+%7C+JavaScript;Java+%7C+MySQL+%7C+Python;Siempre+aprendiendo&color=0:58A6FF,50:E6EDF3,100:7AA2F7" />
 </div>
 
-<div align="center">
-  <svg width="520" height="60" xmlns="http://www.w3.org/2000/svg">
-    <text x="0" y="40" font-size="32" font-family="Segoe UI, Arial, sans-serif" fill="#e6edf3">
-      👋 Hola, soy Duván 
-      <tspan fill="#58A6FF">Sánchez</tspan>
-    </text>
-  </svg>
-</div>
+<h1 align="center">
+  👋 Hola, soy Duván <span style="color:#58A6FF;">Sánchez</span>
+</h1>
 
 🎓 **Estudiante de Ingeniería de Sistemas**  
 💻 Apasionado por la programación, RV, Diseño 3D, Bases de Datos y Computo.
